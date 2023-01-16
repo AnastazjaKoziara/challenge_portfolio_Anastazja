@@ -7,5 +7,5 @@ Hej, nazywam się Anastazja i właśnie tworzę swoje porfolio challenge Dare IT
 Wielokrotnie IT ~*(aka mąż-programista)*~ szepcze mi do ucha więc chciałam w końcu spróbować z czym to się je. Ścieżek rozwoju jest bardzo dużo i cięzko sobie od razu coś upolować, stwierdziłam więc że dobrym wprowadzeniem do świata IT będzie tester oprogramowania.  
 
 
-No cóż, powodzenia mi życzę!
+No cóż, powodzenia sobie życzę!
 ### Substask 4
