@@ -31,3 +31,10 @@ No cóż, powodzenia sobie życzę!
 | Mecze                  | Czas gry może być większy/ujemy niż mówią zasady piłki nożnej (90min); Data meczu może być z kosmosu                                                                                                                                                                                                                                                                                                                                                          |
 | Rozpocznij mecz        | Można tworzyć więcej niż dwie połowy meczu.  Nie można usunąć wizualizacji meczu.                                                                                                                                                                                                                                                                                                                                                                          |
 | Raport                 | Nie da się utworzyć raportu z tej zakładki, dopiero w ‚akcjach’ w zakładce mecz; Złe formatowanie nie dostosowane do strony; Trzeba mieć wpisane województwo w zakładce gracz aby móc stworzyć raport.                                                                                                                                                                                                                                                         |
+
+## Task 2
+### Subtask 1
+[link do pierwszego Subtaska](https://docs.google.com/document/d/1-LxBmxplgwzAGSX8HORxdZ5LnNG31-Q93l3-Fi9UWec/edit)
+### Subtask 2
+[link do drugiego Substaska](https://docs.google.com/document/d/10bNge783LsWz-32eG6C7gvWYqc84nqkCOY9B1lcOfuQ/edit)
+### Subtask 3
