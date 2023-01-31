@@ -42,3 +42,4 @@ No cóż, powodzenia sobie życzę!
 
 ## Task 3 
 ### Subtask 1/2
+[link do zadania pierwszego](https://docs.google.com/document/d/1jsj0UDc3ec0bWikfQd6gex8oy_MpalZYruu2kycnST4/edit)
