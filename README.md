@@ -43,3 +43,5 @@ No cóż, powodzenia sobie życzę!
 ## Task 3 
 ### Subtask 1/2
 [link do zadania pierwszego](https://docs.google.com/document/d/1jsj0UDc3ec0bWikfQd6gex8oy_MpalZYruu2kycnST4/edit)
+### Subtask 3
+[link do raportu z TC](https://docs.google.com/document/d/11dnmWwF_C0Fhx4me-KE3ad4AoGZyQzSsT5fX8kmROI0/edit)
