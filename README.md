@@ -39,3 +39,6 @@ No cóż, powodzenia sobie życzę!
 [link do drugiego Substaska](https://docs.google.com/document/d/10bNge783LsWz-32eG6C7gvWYqc84nqkCOY9B1lcOfuQ/edit)
 ### Subtask 3
 *Po co piszemy test case'y?* Otóż po to żeby zaoszczedzić czas i pieniądze. Dzięki temu że mamy opracowany test plan zawierający poszczególne test case'y, mamy pojęcie co należy przetestować i ile wstępnie czasu zajmie nam przetestowanie danego systemu. Pozwała nam na to że jakość kodu będzie lepsza, szybciej można znaleźć błędy i niezgodności z wymaganiami klienta.
+
+## Task 3 
+### Subtask 1/2
