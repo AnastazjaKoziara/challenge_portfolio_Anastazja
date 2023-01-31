@@ -8,7 +8,7 @@ Wielokrotnie IT ~*(aka mąż-programista)*~ szepcze mi do ucha więc chciałam w
 
 
 No cóż, powodzenia sobie życzę!
-### Substask 4
+### Subtask 4
 * Aplikacja służy do zarządzania graczami, meczami piłkiu nożnej, Pozwala na prowadzenie statystyk (za pomocą raportów oraz tabeli z graczami), dzięki którym można usprawnić funkcjonowanie drużyny/klubu/platformy. Taka aplikacja jest przydatna dla klubów piłkarskich w celu łatwiejszego zarządzania graczami, meczami i ogólnego zarządzania klubu.  
 
 * W aplikacji **na stronie głównej** możemy monitorować statystyki ogólne klubu, ilość rozegranych meczy/graczy/raportów. Dzięki linkom pomocniczym można łatwo przejść do utworzenia nowego gracza (co prawda brakuje tej opcji w zakładce gracze; w linkach pomocniczych powinny być linki do tworzenia meczu/raportu). Dodatkowo jest opcja przetłumaczenia aplikacji na język angielski.
