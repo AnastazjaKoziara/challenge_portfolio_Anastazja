@@ -45,3 +45,8 @@ No cóż, powodzenia sobie życzę!
 [link do zadania pierwszego](https://docs.google.com/document/d/1jsj0UDc3ec0bWikfQd6gex8oy_MpalZYruu2kycnST4/edit)
 ### Subtask 3
 [link do raportu z TC](https://docs.google.com/document/d/11dnmWwF_C0Fhx4me-KE3ad4AoGZyQzSsT5fX8kmROI0/edit)
+
+## Task 4 
+### Subtask 1/2
+[link do zadania](https://docs.google.com/document/d/1VGrpD5gJUm7ip7QO9TK_xTItLgEuZ27xNknjRGEB7B4/edit)
+### Subtask 3
