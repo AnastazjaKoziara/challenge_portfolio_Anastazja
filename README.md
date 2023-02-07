@@ -50,3 +50,11 @@ No cóż, powodzenia sobie życzę!
 ### Subtask 1/2
 [link do zadania](https://docs.google.com/document/d/1VGrpD5gJUm7ip7QO9TK_xTItLgEuZ27xNknjRGEB7B4/edit)
 ### Subtask 3
+1. Aplikacja OLX jest aplikacją pozwalająca sprzedawać/kupować towary/usługi pomiędzy osobami prywatnymi jak i firmami na terenie całej Polski lub lokalnie. Można w niej przeglądać różne ogłoszenia (na postawie wybranych kategorii lub wybranych dla ciebie).
+2. Użytkownikiem tej aplikacji jest osoba poszukująca towaru/usługi albo osoba która chce sprzedać/oddać za darmo/zamienić jakiś swój towar.
+
+3. Dla mnie aplikacja jest user-friendly dlatego że szybko można w niej zrozumieć na co mogę sobie pozwolić i w jaki sposób mogę jej używać (często są podpowiedzi/komunikaty które mówią o możliwościach). Aczkolwiek niektóre komunikaty są mało dopracowane, np związane z tym że podaje złe wartości w wyszukiwarce/ogłoszeniu, brakuje podświetlenia na czerwono że coś mnie ominęło w wypełnianiu pół.
+
+4. Dla mnie w tej aplikacji jest trochę za dużo informacji/ogłoszeń które mnie przytłaczają. Wchodzę na główną stronę i zalewa mnie mnóstwo ogłoszeń, może dlatego ze OLX miało przypominać Instagram? Jestem przyzwyczajonym użytkownikiem Allegro, gdzie ogłoszenia są podzielone na kategorie, i są dużymi kwadratami, i dopiero jak w nie klikniesz to masz ogłoszenia z danej kategorii. Wydaje mi się zbędnym posiadania na stronie głównej wszystkich ogłoszeń z różnych kategorii, bo wygląda to niechlujnie i zniechęca. Wydaje mi się że przy tym modelu wyglądu aplikacji można np ew pokazywać tylko lokalne oferty na stronie głównej, skoro mają być z różnych kategorii.
+5. Moim zdaniem aplikacje webową łatwiej się testuje ponieważ można zobaczyć DevTools’y dzięki czemu łatwiej dostrzec czy działa prawidłowo walidacja na frontendzie/backendzie. Jeśli chodzi o aplikacje webowe na urządzeniach mobilnych gorzej się prezentują gdyż mają ograniczony wachlarz funkcjonalności (brak korzystania z aparatu/kalendarza/latarki), Zato testując aplikację natywną musisz posiadać dużą liczbę urządzeń/albo symulatory żeby móc przetestować każde środowisko. Aplikację natywną zawsze badasz pod kątem frontendu bo nie masz dostępu do żadnych backendowych treści.    
+
