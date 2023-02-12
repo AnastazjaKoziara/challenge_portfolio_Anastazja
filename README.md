@@ -58,3 +58,6 @@ No cóż, powodzenia sobie życzę!
 4. Dla mnie w tej aplikacji jest trochę za dużo informacji/ogłoszeń które mnie przytłaczają. Wchodzę na główną stronę i zalewa mnie mnóstwo ogłoszeń, może dlatego ze OLX miało przypominać Instagram? Jestem przyzwyczajonym użytkownikiem Allegro, gdzie ogłoszenia są podzielone na kategorie, i są dużymi kwadratami, i dopiero jak w nie klikniesz to masz ogłoszenia z danej kategorii. Wydaje mi się zbędnym posiadania na stronie głównej wszystkich ogłoszeń z różnych kategorii, bo wygląda to niechlujnie i zniechęca. Wydaje mi się że przy tym modelu wyglądu aplikacji można np ew pokazywać tylko lokalne oferty na stronie głównej, skoro mają być z różnych kategorii.
 5. Moim zdaniem aplikacje webową łatwiej się testuje ponieważ można zobaczyć DevTools’y dzięki czemu łatwiej dostrzec czy działa prawidłowo walidacja na frontendzie/backendzie. Jeśli chodzi o aplikacje webowe na urządzeniach mobilnych gorzej się prezentują gdyż mają ograniczony wachlarz funkcjonalności (brak korzystania z aparatu/kalendarza/latarki), Zato testując aplikację natywną musisz posiadać dużą liczbę urządzeń/albo symulatory żeby móc przetestować każde środowisko. Aplikację natywną zawsze badasz pod kątem frontendu bo nie masz dostępu do żadnych backendowych treści.    
 
+## Task 5 
+### Subtask 1/2
+### Subtask 3
