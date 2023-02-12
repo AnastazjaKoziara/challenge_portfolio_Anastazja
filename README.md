@@ -110,6 +110,12 @@ order by customer_id
 ![image](https://user-images.githubusercontent.com/63921367/218329681-5829db95-d696-415d-af03-dcb01a386fa8.png)
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-11. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+
+```sqlselect * from customers
+where customer_id in (1,3,5)
+```
+![image](https://user-images.githubusercontent.com/63921367/218330558-cf8fddb3-e6de-4085-9c57-d64b32642424.png)
+
+8. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 12. Wyświetl dane klienta, który nie ma podanego adresu email.
 13. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
