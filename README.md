@@ -63,8 +63,11 @@ No cóż, powodzenia sobie życzę!
 ### Subtask 3
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
+```sql
 select * from actors
 order by surname
+```
+![image](https://user-images.githubusercontent.com/63921367/218325605-57e92a4b-4ad8-4a1e-b53b-1cb27a8f9f94.png)
 
 3. Wyświetl film, który powstał w 2019 roku.
 4. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
