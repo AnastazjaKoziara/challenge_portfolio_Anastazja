@@ -86,7 +86,14 @@ where year_of_production between 1900 and 1999
 ![image](https://user-images.githubusercontent.com/63921367/218326147-8694db1e-dd32-4e5b-b70d-209ca7a0682d.png)
 
 4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-8. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+
+```sql
+select title, price from movies
+where price < 7
+```
+![image](https://user-images.githubusercontent.com/63921367/218326362-a2090af2-3a7b-4c6f-b45e-3af46b89456e.png)
+
+5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
 9. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 10. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 11. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
