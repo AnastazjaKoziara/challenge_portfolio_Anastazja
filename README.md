@@ -94,7 +94,14 @@ where price < 7
 ![image](https://user-images.githubusercontent.com/63921367/218326362-a2090af2-3a7b-4c6f-b45e-3af46b89456e.png)
 
 5. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-9. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+
+```sql
+select * from actors
+where actor_id >= 4 and actor_id <= 7
+```
+![image](https://user-images.githubusercontent.com/63921367/218326967-b8157a27-2c5e-4962-97a5-9eeccd21b50f.png)
+
+6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
 10. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 11. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 12. Wyświetl dane klienta, który nie ma podanego adresu email.
