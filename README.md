@@ -125,5 +125,11 @@ where name like 'An%'
 ```
 ![image](https://user-images.githubusercontent.com/63921367/218330835-67fc7854-2fc0-440c-ab03-2be539bad112.png)
 
-12. Wyświetl dane klienta, który nie ma podanego adresu email.
-13. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+9. Wyświetl dane klienta, który nie ma podanego adresu email.
+```sql
+select * from customers
+where email is null
+```
+![image](https://user-images.githubusercontent.com/63921367/218331152-7a8c08c7-7318-45ad-a172-99f1d5d3a216.png)
+
+10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
