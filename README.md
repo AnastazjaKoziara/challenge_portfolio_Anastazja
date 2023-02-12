@@ -77,11 +77,18 @@ where year_of_production = 2019
 ```
 ![image](https://user-images.githubusercontent.com/63921367/218325817-3fce181e-72c8-4da3-8879-9e6b8540ced7.png)
 
-5. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
-6. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
-7. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
-8. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-9. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
-10. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
-11. Wyświetl dane klienta, który nie ma podanego adresu email.
-12. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+3. Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.
+
+```sql
+select * from movies
+where year_of_production between 1900 and 1999
+```
+![image](https://user-images.githubusercontent.com/63921367/218326147-8694db1e-dd32-4e5b-b70d-209ca7a0682d.png)
+
+4. Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$
+8. Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.
+9. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
+10. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+11. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
+12. Wyświetl dane klienta, który nie ma podanego adresu email.
+13. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
