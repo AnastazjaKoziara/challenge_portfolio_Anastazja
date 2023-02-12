@@ -102,7 +102,14 @@ where actor_id >= 4 and actor_id <= 7
 ![image](https://user-images.githubusercontent.com/63921367/218326967-b8157a27-2c5e-4962-97a5-9eeccd21b50f.png)
 
 6. Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.
-10. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
+```sql
+select * from customers
+where customer_id = 2 or customer_id = 4 or customer_id = 6
+order by customer_id
+```
+![image](https://user-images.githubusercontent.com/63921367/218329681-5829db95-d696-415d-af03-dcb01a386fa8.png)
+
+7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 11. Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.
 12. Wyświetl dane klienta, który nie ma podanego adresu email.
 13. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
