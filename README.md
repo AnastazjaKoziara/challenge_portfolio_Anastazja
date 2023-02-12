@@ -133,3 +133,8 @@ where email is null
 ![image](https://user-images.githubusercontent.com/63921367/218331152-7a8c08c7-7318-45ad-a172-99f1d5d3a216.png)
 
 10. Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.
+```sql
+select * from movies
+where price > 9 and movie_id between 2 and 8
+```
+![image](https://user-images.githubusercontent.com/63921367/218331560-1b9738f6-13d6-4aa9-b077-d10c22e13f73.png)
