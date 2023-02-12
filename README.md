@@ -111,7 +111,8 @@ order by customer_id
 
 7. Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.
 
-```sqlselect * from customers
+```sql
+select * from customers
 where customer_id in (1,3,5)
 ```
 ![image](https://user-images.githubusercontent.com/63921367/218330558-cf8fddb3-e6de-4085-9c57-d64b32642424.png)
