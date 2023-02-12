@@ -60,7 +60,7 @@ No cóż, powodzenia sobie życzę!
 
 ## Task 5 
 ### Subtask 1/2
-W zadaniu używałam środowiska DataGrip, w którym wykorzystywałam takie operatory/zapytania jak 
+W zadaniu używałam środowiska DataGrip, w którym wykorzystywałam takie operatory/zapytania jak where, between, in, and/or, order by, create, name like.
 ### Subtask 3
 1. Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.
 
