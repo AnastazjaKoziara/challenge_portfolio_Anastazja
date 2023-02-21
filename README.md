@@ -246,5 +246,6 @@ values (7,'Honia','Stuczka-Kucharska', 'honia@mail.com', 'Hoa')
 ![image](https://user-images.githubusercontent.com/63921367/220201741-c59aa84b-705c-45c8-afd1-10b10f081d81.png)
 
 ## Subtask 2
+tu wpisac wynik testu
 ## Subtask 3
-
+[link do mojego portfolio](https://github.com/AnastazjaKoziara/portfolioDareIT/blob/main/Portfolio.md)
